@@ -8,7 +8,7 @@
 * docx2txt 0.8
 * tqdm 4.62.3
 
-<span style="font-size:larger;">`Requirements`</span>:<br>
+<span style="font-size:larger;">`Instructions`</span>:<br>
 - After installing the requirements:
 1. Open a terminal in the project folder
 2. type `python script.py [docx_path]` (for example: python script.py "C:\Users\user7\OneDrive\Desktop\Final Project\DOCX") and click Enter
