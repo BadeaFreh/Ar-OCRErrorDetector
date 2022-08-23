@@ -1,5 +1,5 @@
 
-<span style="font-size:larger;">`Requirements`</span>:<br>
+# Requirements:
 * Python 3.7.9
 * tensorflow 2.9.1
 * keras 2.9.0
@@ -8,7 +8,7 @@
 * docx2txt 0.8
 * tqdm 4.62.3
 
-<span style="font-size:larger;">`Instructions`</span>:<br>
+# Instructions:
 - After installing the requirements:
 1. Extract compressed files (models.zip.00[1-15]). - A new folder should appear in the project with the name 'models' - contains .hdf5 file.
 2. Open a terminal in the project folder (cmd window).
